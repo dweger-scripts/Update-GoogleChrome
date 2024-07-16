@@ -1,2 +1,2 @@
 # Update-GoogleChrome
-Updates Google Chrome
+Updates Google Chrome for Windows computers
