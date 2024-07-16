@@ -2,11 +2,11 @@
 Updates Google Chrome for Windows computers
 
 ## Usage
-Download this script then Placeholder.
+Download this script then run with command:
 
-` Placeholder `
+` .\Update-GoogleChrome.ps1 `
 
-## Placeholder
-Placeholder.
+## RMM Deployment
+Powershell one-liner for easy use in an RMM.
 
-` Placeholder `
+` $downloadURI = 'https://raw.githubusercontent.com/dweger-scripts/Update-GoogleChrome/main/Update-GoogleChrome.ps1'; $script = 'C:\temp\Update-GoogleChrome.ps1'; Invoke-WebRequest -URI $downloadURI -Outfile $script `
